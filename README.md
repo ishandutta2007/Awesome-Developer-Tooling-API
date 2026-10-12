@@ -42,65 +42,18 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[Salesforce Tooling API](https://developer.salesforce.com/docs/atlas.en-us.api_tooling.meta/api_tooling/)**  
-
-  REST API for accessing metadata about Apex classes, triggers, Visualforce pages, and development artifacts. Provides endpoints for querying, creating, updating, and deleting tooling objects such as ApexClass, ApexTrigger, ApexLog, and MetadataContainer. Base URL: `https://{instance}.salesforce.com/services/data/v59.0/tooling` .
-
-
-
-- **[GitHub REST API](https://docs.github.com/rest)**  
-
-  Comprehensive API (version 2026-03-10) for managing repositories, issues, pull requests, actions, packages, and more. Features OpenAPI descriptions, granular PAT permissions, and extensive endpoint coverage across users, orgs, and enterprise features .
-
-
-
-- **[GitLab API](https://docs.gitlab.com/api/)**  
-
-  REST API (v4) for projects, pipelines, merge requests, and CI/CD management. Supports offset and keyset pagination, authentication via PRIVATE-TOKEN header, and comprehensive endpoint coverage for GitLab features .
-
-
-
-- **[Bitbucket Cloud API](https://developer.atlassian.com/cloud/bitbucket/)**  
-
-  2.0 REST API with Bitbucket Query Language (BBQL) for filtering, partial responses, and API proxy module for authentication and parameter substitution. Built on OpenAPI Specification 2.0 .
-
-
-
-- **[Docker Hub API](https://docs.docker.com/reference/api/hub/)**  
-
-  API v2 (beta) for managing repositories, tags, organizations, teams, and access tokens. Includes Registry HTTP API v2 for manifests, blobs, and multi-arch inspection, plus Docker Scout for CVE/SBOM intelligence .
-
-
-
-- **[Vercel API](https://vercel.com/docs/rest-api)**  
-
-  REST API for deployments, projects, domains, and networking. Features check runs, Secure Compute networks, PrivateLink endpoints, and connector management for integrations .
-
-
-
-- **[Netlify API](https://docs.netlify.com/api-and-cli-guides/api-guides/get-started-with-api/)**  
-
-  REST API for site deployment, functions, and form handling. Supports ZIP file deploys, async requests for large deploys, and OpenAPI reference .
-
-
-
-- **[Postman API](https://learning.postman.com/docs/)**  
-
-  API for managing collections, environments, mocks, and monitors. Enables programmatic access to Postman workspace for CI/CD integration and team collaboration .
-
-
-
-- **[CircleCI API](https://circleci.com/docs/api/)**  
-
-  REST API for pipelines, workflows, jobs, and insights. Provides programmatic access to trigger builds, manage contexts, and retrieve pipeline metadata including VCS and trigger information .
-
-
-
-- **[Travis CI API](https://docs.travis-ci.com/api/)**  
-
-  API V3 for repositories, builds, jobs, and CI settings. Supports build triggering, environment variable management, cron schedules, cache management, and `.travis.yml` validation .
+| Product | Company Size (Valuation / Revenue) | Starting Paid Tier Pricing | Free Tier / Free Trial Limits | API Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Salesforce Tooling API](https://developer.salesforce.com/docs/atlas.en-us.api_tooling.meta/api_tooling/)** | ~$280B Market Cap (~$38B ARR) | $25/user/month (Starter Suite) | 30-day full-feature trial (includes REST/Tooling API access) or free Developer Edition org (lifetime sandbox with 5MB data / 20MB file storage, max 15,000 API calls/24 hrs) | REST API for managing metadata about Apex classes, triggers, Visualforce pages, and development artifacts. Endpoints for querying/mutating tooling objects (`ApexClass`, `ApexTrigger`, `ApexLog`, `MetadataContainer`). Base URL: `https://{instance}.salesforce.com/services/data/v59.0/tooling`. |
+| **[GitHub REST API](https://docs.github.com/rest)** | ~$100B+ Implied Value (Part of Microsoft $3T+ Cap; ~$2B+ ARR) | $4/user/month (Team plan) | $0 Free forever plan: unlimited public/private repositories, 2,000 GitHub Actions CI/CD minutes/month, 500MB Packages storage, and 5,000 API requests/hour authenticated (60 requests/hour unauthenticated). | Comprehensive REST API (version 2026-03-10) for managing repositories, issues, pull requests, actions, packages, and organization governance with OpenAPI descriptions and granular PAT permissions. |
+| **[Bitbucket Cloud API](https://developer.atlassian.com/cloud/bitbucket/)** | ~$50B Market Cap (Atlassian; ~$4.4B ARR) | $3/user/month (Standard plan) | $0 Free forever plan: up to 5 user seats, 50 CI/CD build minutes/month, 1GB Git LFS storage, and unlimited private repositories with REST API access (1,000 requests/hr rate limit). | 2.0 REST API supporting Bitbucket Query Language (BBQL) for query filtering, partial field responses, and API proxy authentication. Built on OpenAPI Specification 2.0. |
+| **[Vercel API](https://vercel.com/docs/rest-api)** | $9.3B Valuation (~$200M+ ARR) | $20/month per seat (Pro plan) | $0 Free Hobby plan (personal/non-commercial): 100GB fast data transfer/month, 1M Edge Requests/month, 1M Serverless Function invocations/month, 4 CPU-hours compute, and 1GB Blob storage. Hard-paused upon limit exhaustion. | REST API for managing deployments, project environments, custom domains, Edge/Serverless functions, Secure Compute networks, PrivateLink endpoints, and third-party integrations. |
+| **[GitLab API](https://docs.gitlab.com/api/)** | ~$9B Market Cap (~$700M+ ARR) | $29/user/month (Premium plan) | $0 Free forever plan: up to 5 users/namespace, 400 CI/CD compute minutes/month, 5GB storage, 10GB transfer/month, and API rate limit of 2,000 requests/minute authenticated. | REST API (v4) managing projects, CI/CD pipelines, merge requests, container registries, and enterprise issue tracking. Supports offset/keyset pagination and token authentication. |
+| **[Postman API](https://learning.postman.com/docs/)** | $5.6B Peak Valuation (~$313M ARR) | $9/user/month billed annually ($12 monthly - Solo plan) | $0 Free forever plan: 1 user seat, 50 Postman AI credits/month, unlimited collection runs, mock servers, and 1,000 Postman API requests/month. | REST API for programmatically managing workspace collections, environments, monitors, mock servers, and API definitions to integrate into automated CI/CD pipelines. |
+| **[Travis CI API](https://docs.travis-ci.com/api/)** | ~$3B Valuation (Idera; ~$500M+ ARR) | $69/month (Core 1-concurrent job plan) | 14-day free trial with 10,000 trial build credits (~1,000 Linux build minutes) valid for trial duration; free credits pool renewable upon request for qualified open-source repositories. | API V3 for managing repositories, triggering builds, inspecting jobs, controlling environment variables, setting cron schedules, and validating `.travis.yml` files. |
+| **[Docker Hub API](https://docs.docker.com/reference/api/hub/)** | $2.1B Valuation (~$207M ARR) | $9/user/month billed annually ($11 monthly - Pro plan) | $0 Docker Personal forever plan (organizations <250 employees and <$10M revenue): 200 image pulls per 6 hours (authenticated), unlimited public repositories, and 1 private repository. | API v2 for programmatic management of container repositories, webhooks, tags, teams, and access tokens, coupled with Registry HTTP v2 API and Docker Scout CVE analysis endpoints. |
+| **[CircleCI API](https://circleci.com/docs/api/)** | $1.7B Valuation (~$55M+ ARR) | $15/month (Performance plan, includes 30k credits + 5 seats) | $0 Free forever plan: 30,000 credits/month (~3,000 Linux medium build minutes), up to 5 user seats, and unlimited VCS integrations. | REST API for triggering pipelines, inspecting workflows/jobs, managing contexts and environment variables, and querying performance and test insights. |
+| **[Netlify API](https://docs.netlify.com/api-and-cli-guides/api-guides/get-started-with-api/)** | $2.0B Valuation (~$45M ARR) | $9/month (Personal plan, includes 1,000 credits) | $0 Free forever plan: 300 credits/month (e.g., 20 credits/GB outbound transfer, 15 credits/production deploy, 2 credits/10k web requests), 1-day analytics retention, hard cap when monthly pool is consumed. | REST API for site deployments (including raw ZIP upload), DNS/domain automation, serverless and edge functions management, and form submissions. |
 
 
 
