@@ -1,54 +1,45 @@
-# Awesome-Developer-Tooling-API
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome" />
+  <img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License: MIT" />
+  <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg?style=flat-square" alt="Maintenance" />
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
-## Top Developer Tooling API Ecosystem
+<p align="center">
+  <a href="#awesome-developer-tooling-api">
+    <img src="assets/banner.svg" alt="Awesome Developer Tooling API Banner" width="100%" />
+  </a>
+</p>
 
+# 🚀 Awesome-Developer-Tooling-API
 
+> 🌟 **The Definitive Directory of Developer Tooling APIs, API Gateways, Lifecycle Management, and Developer Experience (DevEx) Ecosystems.**
 
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
+Welcome to **Awesome Developer Tooling API** — an SEO-optimized, community-curated catalog indexing top **SaaS platforms** and high-velocity **open-source GitHub projects** powering modern API engineering. Whether you are architecting a cloud-native microservice API gateway, establishing contract testing in CI/CD pipelines, generating OpenAPI SDKs, or seeking transparent self-hosted developer tools, this index provides deep technical coverage, real-time metrics, and verified commercial tiers.
 
-*Focused on API Management, Gateway Infrastructure & Developer Experience*  
+---
 
-**Last updated: March 2026**
+## 📑 Table of Contents
 
+- [🌐 Sector Overview & Market Dynamics](#-sector-overview--market-dynamics)
+- [☁️ SaaS / Hosted Platforms](#️-saas--hosted-platforms)
+- [💻 Open-Source GitHub Projects](#-open-source-github-projects)
+- [📈 Star History](#-star-history)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [⚖️ Disclaimer](#️-disclaimer)
 
+---
 
-This repository tracks notable **SaaS platforms** and **open-source projects** for **Developer Tooling APIs**. These tools enable teams to manage API lifecycles, build gateways, test endpoints, generate documentation, and integrate with CI/CD pipelines — powering modern API-first development workflows.
-
-
-
-**Examples** include Salesforce Tooling API, GitHub REST API, GitLab API, Bitbucket Cloud API, Docker Hub API, Vercel API, Netlify API, Postman API, CircleCI API, and Travis CI API (the category leaders).
-
-
-
-**Open-source emphasis**: This section is heavily expanded with every major active project for self-hosting, custom gateway infrastructure, and open API tooling — ideal for platform engineers, DevOps teams, and developers seeking transparent, vendor-independent API management.
-
-
-
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
-
-
-
-## Table of Contents
-
-- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## Sector Overview & Market Dynamics
+## 🌐 Sector Overview & Market Dynamics
 
 The global API management and developer tooling market is estimated at approximately **$8.6B to $10.5B** and projected to surpass **$30B+ by the early 2030s** (growing at an ~18–22% CAGR). The sector exhibits a **dual dynamic**: it is **moderately concentrated** at the enterprise infrastructure layer (where hyperscalers and incumbents like Microsoft/GitHub, Salesforce/MuleSoft, and Google Cloud command over 50% of market share), yet **highly fragmented** in specialized developer experience niches (such as API testing, edge platforms, and collaborative API design) where product-led, developer-first startups compete vigorously.
 
+---
 
-
-## SaaS/Hosted Platforms
+## ☁️ SaaS / Hosted Platforms
 
 | Product | Company Size (Valuation / Revenue) | Starting Paid Tier Pricing | Free Tier / Free Trial Limits | API Description |
 | :--- | :--- | :--- | :--- | :--- |
@@ -63,178 +54,188 @@ The global API management and developer tooling market is estimated at approxima
 | **[CircleCI API](https://circleci.com/docs/api/)** | $1.7B Valuation (~$55M+ ARR) | $15/month (Performance plan, includes 30k credits + 5 seats) | $0 Free forever plan: 30,000 credits/month (~3,000 Linux medium build minutes), up to 5 user seats, and unlimited VCS integrations. | REST API for triggering pipelines, inspecting workflows/jobs, managing contexts and environment variables, and querying performance and test insights. |
 | **[Netlify API](https://docs.netlify.com/api-and-cli-guides/api-guides/get-started-with-api/)** | $2.0B Valuation (~$45M ARR) | $9/month (Personal plan, includes 1,000 credits) | $0 Free forever plan: 300 credits/month (e.g., 20 credits/GB outbound transfer, 15 credits/production deploy, 2 credits/10k web requests), 1-day analytics retention, hard cap when monthly pool is consumed. | REST API for site deployments (including raw ZIP upload), DNS/domain automation, serverless and edge functions management, and form submissions. |
 
+---
 
+## 💻 Open-Source GitHub Projects
 
-## Open-Source GitHub Projects
+All repositories are dynamically tracked and ordered in **descending order by GitHub stargazers**. Click on any star badge to visit the project's stargazers community.
 
+- **[hoppscotch](https://github.com/hoppscotch/hoppscotch)** [![GitHub stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)
 
+  Open-source API development ecosystem. Ultra-fast, lightweight web & desktop alternative to Postman with WebSocket, GraphQL, and gRPC support.
 
-- **[Kong](https://github.com/Kong/kong)**  
+- **[traefik](https://github.com/traefik/traefik)** [![GitHub stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers)
 
-  Leading open-source microservice API gateway and platform (Apache-2.0). Features plugin ecosystem, rate limiting, authentication, and observability. Deployable via Docker, Kubernetes, or bare metal. 40k+ GitHub stars.
+  Modern HTTP reverse proxy and cloud-native edge router that integrates seamlessly with microservices, Docker, Kubernetes, and API gateway architectures.
 
+- **[bruno](https://github.com/usebruno/bruno)** [![GitHub stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)
 
+  Fast, Git-friendly, and offline-first open-source API client storing collections directly in your filesystem as plain-text Bru markup.
 
-- **[Tyk](https://github.com/TykTechnologies/tyk)**  
+- **[kong](https://github.com/Kong/kong)** [![GitHub stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers)
 
-  Fast and scalable open-source API gateway (MPL-2.0). Out-of-the-box API Management Platform with gateway, analytics, developer portal, and dashboard. Go-based with Docker/K8S deployment .
+  World’s most popular cloud-native open-source microservice API gateway built on NGINX/OpenResty, with rich plugin ecosystems for auth, rate limiting, and observability.
 
+- **[insomnia](https://github.com/Kong/insomnia)** [![GitHub stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers)
 
+  Leading open-source desktop API client and design platform for GraphQL, REST, WebSockets, Server-Sent Events (SSE), and gRPC APIs.
 
-- **[Hasura](https://github.com/hasura/graphql-engine)**  
+- **[directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)
 
-  Instant GraphQL and REST APIs on Postgres (Apache-2.0). Features fine-grained access control, webhooks on database events, and real-time subscriptions. 31k+ GitHub stars.
+  Open-source data platform that instantly wraps any SQL database with real-time REST and GraphQL developer tooling APIs with granular RBAC permissions.
 
+- **[graphql-engine](https://github.com/hasura/graphql-engine)** [![GitHub stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=social&color=white)](https://github.com/hasura/graphql-engine/stargazers)
 
+  Blazing-fast instant GraphQL and REST APIs engine on PostgreSQL, MySQL, and SQL Server with built-in fine-grained row-level access control.
 
-- **[Hoppscotch](https://github.com/hoppscotch/hoppscotch)**  
+- **[k6](https://github.com/grafana/k6)** [![GitHub stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)
 
-  Fast and beautiful open-source API request builder (MIT). Alternative to Postman with lightweight browser-based UI, collections, environments, and team collaboration. 70k+ GitHub stars .
+  Modern developer-centric load and performance testing tool for APIs, microservices, and websites with ES6 JavaScript scripting and CLI execution.
 
+- **[envoy](https://github.com/envoyproxy/envoy)** [![GitHub stars](https://img.shields.io/github/stars/envoyproxy/envoy?style=social&color=white)](https://github.com/envoyproxy/envoy/stargazers)
 
+  High-performance C++ cloud-native edge, service, and API data-plane proxy designed for microservices and cloud-native service meshes.
 
-- **[Fusio](https://github.com/apioo/fusio)**  
+- **[swagger-ui](https://github.com/swagger-api/swagger-ui)** [![GitHub stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)
 
-  Open-source API management platform (AGPL-3.0). Helps build and manage REST APIs with a backend, developer portal, and analytics .
+  HTML, JavaScript, and CSS visual documentation generator dynamically rendering interactive API consoles directly from OpenAPI / Swagger definitions.
 
+- **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** [![GitHub stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers)
 
+  Extensible code generation engine generating API client SDKs, server stubs, OpenAPI documentation, and configuration from OpenAPI v2 and v3 specs across 50+ languages.
 
-- **[DreamFactory](https://github.com/dreamfactorysoftware/dreamfactory)**  
+- **[dapr](https://github.com/dapr/dapr)** [![GitHub stars](https://img.shields.io/github/stars/dapr/dapr?style=social&color=white)](https://github.com/dapr/dapr/stargazers)
 
-  Turns any SQL/NoSQL/structured data into RESTful APIs (Apache-2.0). Auto-generates APIs for databases with role-based access control, API keys, and user management .
+  Distributed Application Runtime providing event-driven, portable developer APIs (pub/sub, state management, service invocation, secrets) for microservices.
 
+- **[redoc](https://github.com/Redocly/redoc)** [![GitHub stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers)
 
+  Open-source, responsive, and clean three-panel API documentation generator powered by OpenAPI/Swagger specifications with customizable themes.
 
-- **[Yaade](https://github.com/EsperoTech/yaade)**  
+- **[opik](https://github.com/comet-ml/opik)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)
 
-  Open-source, self-hosted, collaborative API development environment (MIT). Lightweight alternative to Postman/Insomnia with team collaboration features .
+  Open-source LLM observability, evaluation, and developer platform for monitoring, testing, logging, and debugging production AI agents and LLM APIs.
 
+- **[apisix](https://github.com/apache/apisix)** [![GitHub stars](https://img.shields.io/github/stars/apache/apisix?style=social&color=white)](https://github.com/apache/apisix/stargazers)
 
+  Dynamic, real-time, high-performance open-source cloud-native API gateway built on Nginx and etcd with hot-reloading plugins and routing capabilities.
 
-- **[Tainha Gateway](https://github.com/lusqua/tainha-gateway)**  
+- **[scalar](https://github.com/scalar/scalar)** [![GitHub stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)
 
-  Lightweight open-source API gateway written in Go (license varies). Features routing with path params, JWT auth (HS256 or delegation), response mapping with parallel service aggregation, SSE passthrough, rate limiting, OpenTelemetry traces, and Prometheus metrics. Single YAML config .
+  Modern, beautiful, and interactive offline-first API documentation platform, client, and reference generator for OpenAPI specifications.
 
+- **[tyk](https://github.com/TykTechnologies/tyk)** [![GitHub stars](https://img.shields.io/github/stars/TykTechnologies/tyk?style=social&color=white)](https://github.com/TykTechnologies/tyk/stargazers)
 
+  Open-source enterprise API gateway written in Go with an out-of-the-box developer portal, analytics engine, rate limiting, and token management.
 
-- **[webscope](https://gitlab.com/manabug/webscope)**  
+- **[mockoon](https://github.com/mockoon/mockoon)** [![GitHub stars](https://img.shields.io/github/stars/mockoon/mockoon?style=social&color=white)](https://github.com/mockoon/mockoon/stargazers)
 
-  Lightweight API documentation tool (license varies). Generates static HTML from markdown and OpenAPI files with separate pages for spec, documentation, and changelog. CLI and HTTP server modes .
+  Easiest and quickest way to run local mock REST APIs. Open-source, desktop application with JSON templating, proxy mode, and CLI runner.
 
+- **[wiremock](https://github.com/wiremock/wiremock)** [![GitHub stars](https://img.shields.io/github/stars/wiremock/wiremock?style=social&color=white)](https://github.com/wiremock/wiremock/stargazers)
 
+  Flexible HTTP mock engine for stubbing and verifying HTTP interactions in API integration and unit tests across JVM, standalone servers, and Docker.
 
-- **[AAT (Adaptive API Toolkit)](https://github.com/gburgyan/aat)**  
+- **[lura](https://github.com/luraproject/lura)** [![GitHub stars](https://img.shields.io/github/stars/luraproject/lura?style=social&color=white)](https://github.com/luraproject/lura/stargazers)
 
-  CLI tool for testing API workflows end-to-end (license varies). Defines APIs as graphs, executes test plans with data dependency resolution, and produces detailed request/response archives. LLM-assisted test plan generation and MCP server for IDE integration .
+  Ultra high-performance open-source API gateway framework written in Go with linear scalability and composable middleware pipelines.
 
+- **[prism](https://github.com/stoplightio/prism)** [![GitHub stars](https://img.shields.io/github/stars/stoplightio/prism?style=social&color=white)](https://github.com/stoplightio/prism/stargazers)
 
+  Open-source HTTP mock server and proxy that turns OpenAPI specifications into realistic, contract-compliant mock APIs with automated validation.
 
-- **[api-client-tui](https://github.com/nutcas3/api-client-tui)**  
+- **[svix-webhooks](https://github.com/svix/svix-webhooks)** [![GitHub stars](https://img.shields.io/github/stars/svix/svix-webhooks?style=social&color=white)](https://github.com/svix/svix-webhooks/stargazers)
 
-  Terminal-based API client built with Bubble Tea (license varies). Fast alternative to GUI tools with multi-panel TUI, request history, environment variables, and collections .
+  Enterprise-ready open-source Webhooks-as-a-Service architecture providing reliable webhook delivery, retries, HMAC verification, and developer portals.
 
+- **[formio](https://github.com/formio/formio)** [![GitHub stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)
 
+  Enterprise-grade form building and data management platform generating RESTful developer APIs dynamically from drag-and-drop schemas.
 
-- **[Lura](https://github.com/luraproject/lura)**  
+- **[fusio](https://github.com/apioo/fusio)** [![GitHub stars](https://img.shields.io/github/stars/apioo/fusio?style=social&color=white)](https://github.com/apioo/fusio/stargazers)
 
-  High-performance API Gateway framework (license varies). Extensible with middleware and plugins for custom API management .
+  Open-source API management platform written in PHP helping teams build, manage, monitor, and document full-scale REST APIs with a developer portal.
 
+- **[yaade](https://github.com/EsperoTech/yaade)** [![GitHub stars](https://img.shields.io/github/stars/EsperoTech/yaade?style=social&color=white)](https://github.com/EsperoTech/yaade/stargazers)
 
+  Self-hosted, collaborative, and secure developer API workbench for creating, sharing, and executing HTTP requests with multi-user workspace support.
 
-- **[Graphweaver](https://github.com/exogee-technology/graphweaver)**  
+- **[pact-js](https://github.com/pact-foundation/pact-js)** [![GitHub stars](https://img.shields.io/github/stars/pact-foundation/pact-js?style=social&color=white)](https://github.com/pact-foundation/pact-js/stargazers)
 
-  Turn multiple data sources into a single GraphQL API (MIT). Features automatic schema generation, data source connectors, and admin UI .
+  Consumer-driven contract testing framework for JavaScript/TypeScript APIs, preventing breaking changes between microservice consumers and providers.
 
+- **[dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory)** [![GitHub stars](https://img.shields.io/github/stars/dreamfactorysoftware/dreamfactory?style=social&color=white)](https://github.com/dreamfactorysoftware/dreamfactory/stargazers)
 
+  Instant REST API generation engine that connects to any relational database or file storage system and auto-generates documented endpoints with RBAC.
 
-- **[Para](https://github.com/erudika/para)**  
+- **[para](https://github.com/Erudika/para)** [![GitHub stars](https://img.shields.io/github/stars/Erudika/para?style=social&color=white)](https://github.com/Erudika/para/stargazers)
 
-  Flexible and modular backend framework/server for object persistence, API development, and authentication (Apache-2.0). Java-based with Docker support .
+  Flexible, modular backend framework providing instant object persistence, search, and authentication REST APIs for web and mobile applications.
 
+- **[graphweaver](https://github.com/exogee-technology/graphweaver)** [![GitHub stars](https://img.shields.io/github/stars/exogee-technology/graphweaver?style=social&color=white)](https://github.com/exogee-technology/graphweaver/stargazers)
 
+  Instantly turn multiple enterprise data sources (Postgres, MySQL, SQLite, REST) into a unified GraphQL API without boilerplate code.
 
-- **[Svix](https://github.com/svix/svix-webhooks)**  
+- **[api-client-tui](https://github.com/nutcas3/api-client-tui)** [![GitHub stars](https://img.shields.io/github/stars/nutcas3/api-client-tui?style=social&color=white)](https://github.com/nutcas3/api-client-tui/stargazers)
 
-  Open-source webhooks as a service (MIT). Makes it easy for API providers to send webhooks with retry logic, signatures, and monitoring .
+  Terminal-based interactive developer API client written in Go using Bubble Tea, featuring multi-panel TUIs, history tracking, and collections.
 
+- **[aat](https://github.com/gburgyan/aat)** [![GitHub stars](https://img.shields.io/github/stars/gburgyan/aat?style=social&color=white)](https://github.com/gburgyan/aat/stargazers)
 
+  Adaptive API Toolkit CLI for testing complex API workflows end-to-end with graph-based dependency resolution and AI-assisted plan generation.
 
-- **[Opik](https://github.com/comet-ml/opik)**  
+- **[tainha-gateway](https://github.com/lusqua/tainha-gateway)** [![GitHub stars](https://img.shields.io/github/stars/lusqua/tainha-gateway?style=social&color=white)](https://github.com/lusqua/tainha-gateway/stargazers)
 
-  Open-source LLM observability and evaluation toolkit (Apache-2.0). Evaluate, test, and ship LLM applications with observability tools across dev and production lifecycle .
+  Lightweight Go-based API gateway featuring path parameter routing, JWT token auth, response mapping, SSE passthrough, and Prometheus metrics.
 
+- **[webscope](https://gitlab.com/manabug/webscope)**
 
-
-- **[form.io](https://github.com/formio)**  
-
-  REST API building platform with drag-and-drop form builder (MIT). Application framework agnostic with open-source and enterprise versions .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **[Insomnia](https://github.com/Kong/insomnia)** — Open-source API client (Apache-2.0) for REST, GraphQL, and gRPC.
-
-- **[Bruno](https://github.com/usebruno/bruno)** — Fast, Git-friendly API client (MIT) storing collections as plain files.
-
-- **[Swagger UI](https://github.com/swagger-api/swagger-ui)** — Visual documentation for OpenAPI specs (Apache-2.0).
-
-- **[Redoc](https://github.com/Redocly/redoc)** — OpenAPI documentation generator (MIT).
-
-- **[Postwoman/Hoppscotch](https://github.com/hoppscotch/hoppscotch)** — Already listed above.
-
-- **[Mockoon](https://github.com/mockoon/mockoon)** — Desktop API mocking tool (MIT).
-
-- **[WireMock](https://github.com/wiremock/wiremock)** — HTTP mock server (Apache-2.0).
-
-- **[Pact](https://github.com/pact-foundation/pact-js)** — Contract testing framework (MIT).
-
-- **[K6](https://github.com/grafana/k6)** — Load testing tool (AGPL-3.0) for API performance.
-
-- Community **OpenAPI Generator** projects for SDK generation from specs.
-
-
-
-**Frameworks for building custom systems**: Combine **Kong** or **Tyk** as the API gateway with **Hoppscotch** for API development and testing, **webscope** for documentation generation, **AAT** for workflow testing, and **Svix** for webhooks — creating a fully self-hosted, enterprise-grade developer tooling API platform.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- API management platforms handling authentication and data must comply with security regulations (SOC 2, GDPR, etc.).
-
-- Self-hosted open-source solutions require proper security hardening, rate limiting configuration, and ongoing maintenance for production reliability.
-
+  Lightweight developer API documentation generator for OpenAPI and Markdown specs with static HTML rendering and built-in HTTP server mode.
 
 
 ---
 
+## 📈 Star History
 
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Developer-Tooling-API&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Developer-Tooling-API&type=date&legend=top-left)
 
-**Made for platform engineers, DevOps teams, backend developers, and organizations building transparent API tooling solutions.**  
+---
 
-Let's make Developer Tooling APIs more open, data-driven, and efficient.
+## 🤝 How to Contribute
+
+Contributions make the open-source community thrive! To add or update an API tool:
+
+1. 🍴 **Fork the Project**
+2. 🌿 **Create a Feature Branch** (`git checkout -b feature/AddAmazingTool`)
+3. 📝 **Edit `README.md`** following existing formatting, including links, descriptions, and verified pricing/stargazer metadata
+4. 💾 **Commit your Changes** (`git commit -m "Add Amazing Developer Tooling API"`)
+5. 📤 **Push to Branch** (`git push origin feature/AddAmazingTool`)
+6. 🚀 **Open a Pull Request**
+
+Please ensure all descriptions are concise, technical, and link directly to official documentation.
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this curated developer tooling ecosystem repository helpful, please consider showing your support:
+
+- ⭐ **Star this repository** to help other developers discover it!
+- 🍴 **Fork and share** it across your network and engineering teams!
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance and curation via the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007).
+
+Your sponsorship directly funds ongoing index curation, automation tooling, and developer ecosystem research. Thank you! 🙌
+
+---
+
+## ⚖️ Disclaimer
+
+- This is a community-curated directory intended for educational and reference purposes; listings do not represent formal endorsements.
+- When deploying API platforms handling authentication tokens, sensitive customer data, or internal traffic, always ensure strict compliance with applicable regulatory frameworks (SOC 2, ISO 27001, GDPR, HIPAA).
+- Self-hosted open-source software requires routine security audits, rate-limiting policies, TLS/mTLS configurations, and proactive patch management.
+
+---
+
+<p align="center">
+  <sub>Built with ❤️ for platform engineers, DevOps teams, backend developers, and API architects worldwide.</sub>
+</p>
