@@ -58,133 +58,133 @@ The global API management and developer tooling market is estimated at approxima
 
 ## 💻 Open-Source GitHub Projects
 
-All repositories are dynamically tracked and ordered in **descending order by GitHub stargazers**. Click on any star badge to visit the project's stargazers community.
+All repositories are dynamically tracked and ordered in **descending order by GitHub stargazers**. Click on any Stars_Badge to visit the project's stargazers community.
 
-- **[hoppscotch](https://github.com/hoppscotch/hoppscotch)** [![GitHub stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)
+- **[hoppscotch](https://github.com/hoppscotch/hoppscotch)** [![GitHub_Stars](https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social&color=white)](https://github.com/hoppscotch/hoppscotch/stargazers)
 
   Open-source API development ecosystem. Ultra-fast, lightweight web & desktop alternative to Postman with WebSocket, GraphQL, and gRPC support.
 
-- **[traefik](https://github.com/traefik/traefik)** [![GitHub stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers)
+- **[traefik](https://github.com/traefik/traefik)** [![GitHub_Stars](https://img.shields.io/github/stars/traefik/traefik?style=social&color=white)](https://github.com/traefik/traefik/stargazers)
 
   Modern HTTP reverse proxy and cloud-native edge router that integrates seamlessly with microservices, Docker, Kubernetes, and API gateway architectures.
 
-- **[bruno](https://github.com/usebruno/bruno)** [![GitHub stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)
+- **[bruno](https://github.com/usebruno/bruno)** [![GitHub_Stars](https://img.shields.io/github/stars/usebruno/bruno?style=social&color=white)](https://github.com/usebruno/bruno/stargazers)
 
   Fast, Git-friendly, and offline-first open-source API client storing collections directly in your filesystem as plain-text Bru markup.
 
-- **[kong](https://github.com/Kong/kong)** [![GitHub stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers)
+- **[kong](https://github.com/Kong/kong)** [![GitHub_Stars](https://img.shields.io/github/stars/Kong/kong?style=social&color=white)](https://github.com/Kong/kong/stargazers)
 
   World’s most popular cloud-native open-source microservice API gateway built on NGINX/OpenResty, with rich plugin ecosystems for auth, rate limiting, and observability.
 
-- **[insomnia](https://github.com/Kong/insomnia)** [![GitHub stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers)
+- **[insomnia](https://github.com/Kong/insomnia)** [![GitHub_Stars](https://img.shields.io/github/stars/Kong/insomnia?style=social&color=white)](https://github.com/Kong/insomnia/stargazers)
 
   Leading open-source desktop API client and design platform for GraphQL, REST, WebSockets, Server-Sent Events (SSE), and gRPC APIs.
 
-- **[directus](https://github.com/directus/directus)** [![GitHub stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)
+- **[directus](https://github.com/directus/directus)** [![GitHub_Stars](https://img.shields.io/github/stars/directus/directus?style=social&color=white)](https://github.com/directus/directus/stargazers)
 
   Open-source data platform that instantly wraps any SQL database with real-time REST and GraphQL developer tooling APIs with granular RBAC permissions.
 
-- **[graphql-engine](https://github.com/hasura/graphql-engine)** [![GitHub stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=social&color=white)](https://github.com/hasura/graphql-engine/stargazers)
+- **[graphql-engine](https://github.com/hasura/graphql-engine)** [![GitHub_Stars](https://img.shields.io/github/stars/hasura/graphql-engine?style=social&color=white)](https://github.com/hasura/graphql-engine/stargazers)
 
   Blazing-fast instant GraphQL and REST APIs engine on PostgreSQL, MySQL, and SQL Server with built-in fine-grained row-level access control.
 
-- **[k6](https://github.com/grafana/k6)** [![GitHub stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)
+- **[k6](https://github.com/grafana/k6)** [![GitHub_Stars](https://img.shields.io/github/stars/grafana/k6?style=social&color=white)](https://github.com/grafana/k6/stargazers)
 
   Modern developer-centric load and performance testing tool for APIs, microservices, and websites with ES6 JavaScript scripting and CLI execution.
 
-- **[envoy](https://github.com/envoyproxy/envoy)** [![GitHub stars](https://img.shields.io/github/stars/envoyproxy/envoy?style=social&color=white)](https://github.com/envoyproxy/envoy/stargazers)
+- **[envoy](https://github.com/envoyproxy/envoy)** [![GitHub_Stars](https://img.shields.io/github/stars/envoyproxy/envoy?style=social&color=white)](https://github.com/envoyproxy/envoy/stargazers)
 
   High-performance C++ cloud-native edge, service, and API data-plane proxy designed for microservices and cloud-native service meshes.
 
-- **[swagger-ui](https://github.com/swagger-api/swagger-ui)** [![GitHub stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)
+- **[swagger-ui](https://github.com/swagger-api/swagger-ui)** [![GitHub_Stars](https://img.shields.io/github/stars/swagger-api/swagger-ui?style=social&color=white)](https://github.com/swagger-api/swagger-ui/stargazers)
 
   HTML, JavaScript, and CSS visual documentation generator dynamically rendering interactive API consoles directly from OpenAPI / Swagger definitions.
 
-- **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** [![GitHub stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers)
+- **[openapi-generator](https://github.com/OpenAPITools/openapi-generator)** [![GitHub_Stars](https://img.shields.io/github/stars/OpenAPITools/openapi-generator?style=social&color=white)](https://github.com/OpenAPITools/openapi-generator/stargazers)
 
   Extensible code generation engine generating API client SDKs, server stubs, OpenAPI documentation, and configuration from OpenAPI v2 and v3 specs across 50+ languages.
 
-- **[dapr](https://github.com/dapr/dapr)** [![GitHub stars](https://img.shields.io/github/stars/dapr/dapr?style=social&color=white)](https://github.com/dapr/dapr/stargazers)
+- **[dapr](https://github.com/dapr/dapr)** [![GitHub_Stars](https://img.shields.io/github/stars/dapr/dapr?style=social&color=white)](https://github.com/dapr/dapr/stargazers)
 
   Distributed Application Runtime providing event-driven, portable developer APIs (pub/sub, state management, service invocation, secrets) for microservices.
 
-- **[redoc](https://github.com/Redocly/redoc)** [![GitHub stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers)
+- **[redoc](https://github.com/Redocly/redoc)** [![GitHub_Stars](https://img.shields.io/github/stars/Redocly/redoc?style=social&color=white)](https://github.com/Redocly/redoc/stargazers)
 
   Open-source, responsive, and clean three-panel API documentation generator powered by OpenAPI/Swagger specifications with customizable themes.
 
-- **[opik](https://github.com/comet-ml/opik)** [![GitHub stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)
+- **[opik](https://github.com/comet-ml/opik)** [![GitHub_Stars](https://img.shields.io/github/stars/comet-ml/opik?style=social&color=white)](https://github.com/comet-ml/opik/stargazers)
 
   Open-source LLM observability, evaluation, and developer platform for monitoring, testing, logging, and debugging production AI agents and LLM APIs.
 
-- **[apisix](https://github.com/apache/apisix)** [![GitHub stars](https://img.shields.io/github/stars/apache/apisix?style=social&color=white)](https://github.com/apache/apisix/stargazers)
+- **[apisix](https://github.com/apache/apisix)** [![GitHub_Stars](https://img.shields.io/github/stars/apache/apisix?style=social&color=white)](https://github.com/apache/apisix/stargazers)
 
   Dynamic, real-time, high-performance open-source cloud-native API gateway built on Nginx and etcd with hot-reloading plugins and routing capabilities.
 
-- **[scalar](https://github.com/scalar/scalar)** [![GitHub stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)
+- **[scalar](https://github.com/scalar/scalar)** [![GitHub_Stars](https://img.shields.io/github/stars/scalar/scalar?style=social&color=white)](https://github.com/scalar/scalar/stargazers)
 
   Modern, beautiful, and interactive offline-first API documentation platform, client, and reference generator for OpenAPI specifications.
 
-- **[tyk](https://github.com/TykTechnologies/tyk)** [![GitHub stars](https://img.shields.io/github/stars/TykTechnologies/tyk?style=social&color=white)](https://github.com/TykTechnologies/tyk/stargazers)
+- **[tyk](https://github.com/TykTechnologies/tyk)** [![GitHub_Stars](https://img.shields.io/github/stars/TykTechnologies/tyk?style=social&color=white)](https://github.com/TykTechnologies/tyk/stargazers)
 
   Open-source enterprise API gateway written in Go with an out-of-the-box developer portal, analytics engine, rate limiting, and token management.
 
-- **[mockoon](https://github.com/mockoon/mockoon)** [![GitHub stars](https://img.shields.io/github/stars/mockoon/mockoon?style=social&color=white)](https://github.com/mockoon/mockoon/stargazers)
+- **[mockoon](https://github.com/mockoon/mockoon)** [![GitHub_Stars](https://img.shields.io/github/stars/mockoon/mockoon?style=social&color=white)](https://github.com/mockoon/mockoon/stargazers)
 
   Easiest and quickest way to run local mock REST APIs. Open-source, desktop application with JSON templating, proxy mode, and CLI runner.
 
-- **[wiremock](https://github.com/wiremock/wiremock)** [![GitHub stars](https://img.shields.io/github/stars/wiremock/wiremock?style=social&color=white)](https://github.com/wiremock/wiremock/stargazers)
+- **[wiremock](https://github.com/wiremock/wiremock)** [![GitHub_Stars](https://img.shields.io/github/stars/wiremock/wiremock?style=social&color=white)](https://github.com/wiremock/wiremock/stargazers)
 
   Flexible HTTP mock engine for stubbing and verifying HTTP interactions in API integration and unit tests across JVM, standalone servers, and Docker.
 
-- **[lura](https://github.com/luraproject/lura)** [![GitHub stars](https://img.shields.io/github/stars/luraproject/lura?style=social&color=white)](https://github.com/luraproject/lura/stargazers)
+- **[lura](https://github.com/luraproject/lura)** [![GitHub_Stars](https://img.shields.io/github/stars/luraproject/lura?style=social&color=white)](https://github.com/luraproject/lura/stargazers)
 
   Ultra high-performance open-source API gateway framework written in Go with linear scalability and composable middleware pipelines.
 
-- **[prism](https://github.com/stoplightio/prism)** [![GitHub stars](https://img.shields.io/github/stars/stoplightio/prism?style=social&color=white)](https://github.com/stoplightio/prism/stargazers)
+- **[prism](https://github.com/stoplightio/prism)** [![GitHub_Stars](https://img.shields.io/github/stars/stoplightio/prism?style=social&color=white)](https://github.com/stoplightio/prism/stargazers)
 
   Open-source HTTP mock server and proxy that turns OpenAPI specifications into realistic, contract-compliant mock APIs with automated validation.
 
-- **[svix-webhooks](https://github.com/svix/svix-webhooks)** [![GitHub stars](https://img.shields.io/github/stars/svix/svix-webhooks?style=social&color=white)](https://github.com/svix/svix-webhooks/stargazers)
+- **[svix-webhooks](https://github.com/svix/svix-webhooks)** [![GitHub_Stars](https://img.shields.io/github/stars/svix/svix-webhooks?style=social&color=white)](https://github.com/svix/svix-webhooks/stargazers)
 
   Enterprise-ready open-source Webhooks-as-a-Service architecture providing reliable webhook delivery, retries, HMAC verification, and developer portals.
 
-- **[formio](https://github.com/formio/formio)** [![GitHub stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)
+- **[formio](https://github.com/formio/formio)** [![GitHub_Stars](https://img.shields.io/github/stars/formio/formio?style=social&color=white)](https://github.com/formio/formio/stargazers)
 
   Enterprise-grade form building and data management platform generating RESTful developer APIs dynamically from drag-and-drop schemas.
 
-- **[fusio](https://github.com/apioo/fusio)** [![GitHub stars](https://img.shields.io/github/stars/apioo/fusio?style=social&color=white)](https://github.com/apioo/fusio/stargazers)
+- **[fusio](https://github.com/apioo/fusio)** [![GitHub_Stars](https://img.shields.io/github/stars/apioo/fusio?style=social&color=white)](https://github.com/apioo/fusio/stargazers)
 
   Open-source API management platform written in PHP helping teams build, manage, monitor, and document full-scale REST APIs with a developer portal.
 
-- **[yaade](https://github.com/EsperoTech/yaade)** [![GitHub stars](https://img.shields.io/github/stars/EsperoTech/yaade?style=social&color=white)](https://github.com/EsperoTech/yaade/stargazers)
+- **[yaade](https://github.com/EsperoTech/yaade)** [![GitHub_Stars](https://img.shields.io/github/stars/EsperoTech/yaade?style=social&color=white)](https://github.com/EsperoTech/yaade/stargazers)
 
   Self-hosted, collaborative, and secure developer API workbench for creating, sharing, and executing HTTP requests with multi-user workspace support.
 
-- **[pact-js](https://github.com/pact-foundation/pact-js)** [![GitHub stars](https://img.shields.io/github/stars/pact-foundation/pact-js?style=social&color=white)](https://github.com/pact-foundation/pact-js/stargazers)
+- **[pact-js](https://github.com/pact-foundation/pact-js)** [![GitHub_Stars](https://img.shields.io/github/stars/pact-foundation/pact-js?style=social&color=white)](https://github.com/pact-foundation/pact-js/stargazers)
 
   Consumer-driven contract testing framework for JavaScript/TypeScript APIs, preventing breaking changes between microservice consumers and providers.
 
-- **[dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory)** [![GitHub stars](https://img.shields.io/github/stars/dreamfactorysoftware/dreamfactory?style=social&color=white)](https://github.com/dreamfactorysoftware/dreamfactory/stargazers)
+- **[dreamfactory](https://github.com/dreamfactorysoftware/dreamfactory)** [![GitHub_Stars](https://img.shields.io/github/stars/dreamfactorysoftware/dreamfactory?style=social&color=white)](https://github.com/dreamfactorysoftware/dreamfactory/stargazers)
 
   Instant REST API generation engine that connects to any relational database or file storage system and auto-generates documented endpoints with RBAC.
 
-- **[para](https://github.com/Erudika/para)** [![GitHub stars](https://img.shields.io/github/stars/Erudika/para?style=social&color=white)](https://github.com/Erudika/para/stargazers)
+- **[para](https://github.com/Erudika/para)** [![GitHub_Stars](https://img.shields.io/github/stars/Erudika/para?style=social&color=white)](https://github.com/Erudika/para/stargazers)
 
   Flexible, modular backend framework providing instant object persistence, search, and authentication REST APIs for web and mobile applications.
 
-- **[graphweaver](https://github.com/exogee-technology/graphweaver)** [![GitHub stars](https://img.shields.io/github/stars/exogee-technology/graphweaver?style=social&color=white)](https://github.com/exogee-technology/graphweaver/stargazers)
+- **[graphweaver](https://github.com/exogee-technology/graphweaver)** [![GitHub_Stars](https://img.shields.io/github/stars/exogee-technology/graphweaver?style=social&color=white)](https://github.com/exogee-technology/graphweaver/stargazers)
 
   Instantly turn multiple enterprise data sources (Postgres, MySQL, SQLite, REST) into a unified GraphQL API without boilerplate code.
 
-- **[api-client-tui](https://github.com/nutcas3/api-client-tui)** [![GitHub stars](https://img.shields.io/github/stars/nutcas3/api-client-tui?style=social&color=white)](https://github.com/nutcas3/api-client-tui/stargazers)
+- **[api-client-tui](https://github.com/nutcas3/api-client-tui)** [![GitHub_Stars](https://img.shields.io/github/stars/nutcas3/api-client-tui?style=social&color=white)](https://github.com/nutcas3/api-client-tui/stargazers)
 
   Terminal-based interactive developer API client written in Go using Bubble Tea, featuring multi-panel TUIs, history tracking, and collections.
 
-- **[aat](https://github.com/gburgyan/aat)** [![GitHub stars](https://img.shields.io/github/stars/gburgyan/aat?style=social&color=white)](https://github.com/gburgyan/aat/stargazers)
+- **[aat](https://github.com/gburgyan/aat)** [![GitHub_Stars](https://img.shields.io/github/stars/gburgyan/aat?style=social&color=white)](https://github.com/gburgyan/aat/stargazers)
 
   Adaptive API Toolkit CLI for testing complex API workflows end-to-end with graph-based dependency resolution and AI-assisted plan generation.
 
-- **[tainha-gateway](https://github.com/lusqua/tainha-gateway)** [![GitHub stars](https://img.shields.io/github/stars/lusqua/tainha-gateway?style=social&color=white)](https://github.com/lusqua/tainha-gateway/stargazers)
+- **[tainha-gateway](https://github.com/lusqua/tainha-gateway)** [![GitHub_Stars](https://img.shields.io/github/stars/lusqua/tainha-gateway?style=social&color=white)](https://github.com/lusqua/tainha-gateway/stargazers)
 
   Lightweight Go-based API gateway featuring path parameter routing, JWT token auth, response mapping, SSE passthrough, and Prometheus metrics.
 
